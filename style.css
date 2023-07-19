@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(216, 243, 216);
+    
+                                                
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-bottom: 80px;
+    flex-wrap: wrap;
+    
+}
+
+
